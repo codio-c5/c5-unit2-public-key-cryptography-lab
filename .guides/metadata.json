@@ -1,0 +1,31 @@
+{
+ "sections": [
+  {
+   "id": "0c88959d-3288-b654-c361-933e6a495697",
+   "title": "End of Unit Assessment Questions",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/End-of-Unit-Assessment-Questions-0c88.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "e8d9d6f6-d348-324c-a784-33e9495d895d",
+   "title": "Section 2",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Section-2-e8d9.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  }
+ ],
+ "theme": "light",
+ "scripts": [],
+ "lexikonTopic": "",
+ "suppressPageNumbering": false,
+ "hideMenu": false
+}
