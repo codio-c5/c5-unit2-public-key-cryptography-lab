@@ -13,7 +13,7 @@ Pending suggested answers
 
 |||guidance
 # Solution
-Pending suggested answers
+** To decrypt the message all we needed from our partner was the algorithm and parameters used for encryption and the ciphertext. And these could be sent via any channel because none of this information is secret. The only secret is the private key which does not need to be shared.  Students will probably email each other the ciphertexts. Whether it is a secure email service or not will not matter.**
 |||
 
 
