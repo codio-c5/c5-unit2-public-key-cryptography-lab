@@ -1,4 +1,4 @@
-Upon receiving your partner’s encrypted message for you, we can now decrypt it.
+Upon receiving your partners encrypted message for you, we can now decrypt it.
 
 ## Upload partner's public key
 You should now locate the encrypted file that your partner sent you. In the tree view on the left hand side, right-click on the folder `lab-part1` and then press **Upload**.

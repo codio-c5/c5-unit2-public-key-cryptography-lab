@@ -1,4 +1,4 @@
-Upon receiving your partner’s public key via email, you can send encrypted messages to him/her over a public channel (the Internet).
+Upon receiving your partners public key via email, you can send encrypted messages to him/her over a public channel (the Internet).
 
 On the left we have opened up a file `message.txt`. Write your full name and a message for your partner in this file. 
 
@@ -14,7 +14,7 @@ You are now ready to encrypt your message. In the terminal window on the left, e
 encrypt public_key_file_name message.txt encrypted_file_name
 ```
 
-Be sure to specify the public key file name correctly and a valid output file name.
+Be sure to specify your partners public key file name correctly and a valid output file name.
 
 Once you are done, open up the encrypted output file and copy and paste the contents into the box below.
 

@@ -63,7 +63,7 @@
   "type": "free-text",
   "taskId": "free-text-1209885361",
   "source": {
-   "name": "lab1 rsa keys check",
+   "name": "Key Generation",
    "showName": false,
    "arePartialPointsAllowed": true,
    "oneTimeTest": true,
@@ -75,7 +75,7 @@
   "type": "free-text",
   "taskId": "free-text-2661247406",
   "source": {
-   "name": "lab2 encypted",
+   "name": "Key Encryption",
    "showName": false,
    "arePartialPointsAllowed": true,
    "oneTimeTest": true,
@@ -87,7 +87,7 @@
   "type": "free-text",
   "taskId": "free-text-1959244157",
   "source": {
-   "name": "lab3 decrypt",
+   "name": "Key Decryption",
    "showName": false,
    "arePartialPointsAllowed": true,
    "oneTimeTest": true,

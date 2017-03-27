@@ -22,9 +22,7 @@
    "title": "Public Key (Asymmetric) encryption",
    "files": [],
    "layout": "",
-   "path": [
-    "lap-part2"
-   ],
+   "path": [],
    "type": "markdown",
    "content-file": ".guides/content/Public-Key--Asymmetric--encryption-e8d9.md",
    "chapter": false,
@@ -43,7 +41,7 @@
    ],
    "layout": "2-panels-tree",
    "path": [
-    "lab-part2"
+    "lab-part1"
    ],
    "type": "markdown",
    "content-file": ".guides/content/Part-1--Key-Generation-6933.md",
