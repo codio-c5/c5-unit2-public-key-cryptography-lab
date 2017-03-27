@@ -1,19 +1,19 @@
-Make a New Folder and name it KryptosLab.
-Start the Kryptos program. (Double-click the Kryptos.exe.) This window will come up:
+On the left is a Linux terminal window. We will first of all enter a command to create a private/public key pair.
 
-![](.guides/img/kryptos.png)
+## Generate key pair
+To generate a private/public key pair, enter the following command, subsituting `<private>` and `<public>` with the actual filenames you want to create.
+
+```
+keygen <private> <public>
+```
+
+Once you have done this, click on the folder name `lab-part1` in the file tree on the left open up the private key file. 
+
+Copy and paste the contents **into the box below**. Do the same for the public key, pasting it below the private key.
+
+{Save|assessment}(free-text-1209885361)
+
+## Send the public key
+You should now download the **public key file** and send it to your partner via email. To download, right click on the public key file name in the tree on the left and select "Download".
 
 
-Follow these steps:
-
-- Status > Sender
-- Operation > Public key encrypt
-- Algorithm > RSA  - No padding  - SHA-1
-- Algorithm Parameters > Choose defaults (Hit OK)
-- Key > Set Key > Generate Key > Save key 
-- Name the key file as yournameKey.private (for example, my file would be yesemKey.private.) and save it under KryptosAssignment folder. 
-- Check your working folder to see that two new files are created: yournameKey.private and yournameKey.public. 
-- Take a screenshot of the files in the folder to include in your submission.
-
-Note that there are various options for each of the tasks. In practice, two parties would negotiate which option to use for each task.
-Send the **public key** file to your partner via email.

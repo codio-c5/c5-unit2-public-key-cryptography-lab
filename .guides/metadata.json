@@ -3,7 +3,13 @@
   {
    "id": "6b68b3d3-75ee-5830-264f-05950b767927",
    "title": "Grading Rubric",
-   "files": [],
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    }
+   ],
+   "layout": "1-panel",
    "path": [],
    "type": "markdown",
    "content-file": ".guides/content/Grading-Rubric-6b68.md",
@@ -25,8 +31,21 @@
   {
    "id": "6933c0e1-da52-c346-6ccc-501f909fb228",
    "title": "Part 1: Key Generation",
-   "files": [],
-   "path": [],
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    },
+    {
+     "path": "#terminal: ",
+     "panel": 0,
+     "action": "open"
+    }
+   ],
+   "layout": "2-panels-tree",
+   "path": [
+    "lab-part1"
+   ],
    "type": "markdown",
    "content-file": ".guides/content/Part-1--Key-Generation-6933.md",
    "chapter": false,
@@ -36,8 +55,26 @@
   {
    "id": "1aa656f1-8fcf-0bf3-9632-06df1d00f00c",
    "title": "Part 2: Encryption",
-   "files": [],
-   "path": [],
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    },
+    {
+     "path": "lab-part2/message.txt",
+     "panel": 0,
+     "action": "open"
+    },
+    {
+     "path": "#terminal: ",
+     "panel": 1,
+     "action": "open"
+    }
+   ],
+   "layout": "3-cell-tree",
+   "path": [
+    "lab-part2"
+   ],
    "type": "markdown",
    "content-file": ".guides/content/Part-2--Encryption-1aa6.md",
    "chapter": false,
@@ -47,8 +84,21 @@
   {
    "id": "fc6015ab-0c9e-ae1c-5dee-977a682966a2",
    "title": "Part 3: Decryption",
-   "files": [],
-   "path": [],
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    },
+    {
+     "path": "#terminal: ",
+     "panel": 0,
+     "action": "open"
+    }
+   ],
+   "layout": "2-panels-tree",
+   "path": [
+    "lab-part1"
+   ],
    "type": "markdown",
    "content-file": ".guides/content/Part-3--Decryption-fc60.md",
    "chapter": false,

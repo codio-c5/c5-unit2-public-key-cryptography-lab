@@ -1,16 +1,27 @@
 Upon receiving your partner’s public key via email, you can send encrypted messages to him/her over a public channel (the Internet).
 
-Start a text file and write your full name and a message for your partner in this file. Save it as yournamePlain.txt. (For example, my file would be yesemPlain.txt)
+On the left we have opened up a file `message.txt`. Write your full name and a message for your partner in this file. 
 
-Repeat the steps in Part 1 until the “Generate Key” step. At the “Generate Key” step, choose to load a file for the key and load your partner’s public key file. (Here it is assumed that your partner followed the steps above and used the same algorithms and parameters as in Part1 to generate his/her key.)
+## Upload partner's public key
+You should now locate the public key that your partner sent you. In the tree view on the left hand side, right-click on the folder `lab-part2` and then press **Upload**.
 
-Continue as follows:
+Upload the file now. Once the upload is complete, press the **Close** button. Click on the folder to see the file and open the file to verify it looks like a public key.
 
-- Mode> ECB
-- Input/Output > For input file, load the message file you created for your partner. Choose New for Output File and name the output file as yournameCipher.enc.
-- Then hit GO!
+## Encrypt
+You are now ready to encrypt your message. In the terminal window on the left, encrypt your message with the following command
 
-Take a screenshot of the Kryptos window indicating that encryption was done:
+```
+encrypt public_key_file_name message.txt encrypted_file_name
+```
 
-![](.guides/img/kryptos1.png)
-Check your working folder to see that there is a new file called yournameCipher.enc in the folder. Send this encrypted message to your partner via email. 
+Be sure to specify the public key file name correctly and a valid output file name.
+
+Once you are done, open up the encrypted output file and copy and paste the contents into the box below.
+
+{Save|assessment}(free-text-2661247406)
+
+## Send encrypted message
+You are now ready to send your encrypted file to your partner. To download it, right click on the file name in the tree on the left and select "Download". 
+
+
+
